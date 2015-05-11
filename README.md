@@ -1,6 +1,6 @@
 # GIT project
 
-A project to demonstrate git and GitHub for "Introduction to Git" lecture.
+A project to demonstrate Git and GitHub for "Introduction to Git" lecture.
 
 
 
